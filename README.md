@@ -1,4 +1,4 @@
-# dev-hs-nix-template
+# haskell-nix-dev-template
 
 My nix dev environment for Haskell using [stack](https://docs.haskellstack.org/en/stable/).
 
